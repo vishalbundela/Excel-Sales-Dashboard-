@@ -66,7 +66,7 @@ Analyze sales performance across different cities:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot]([Screenshot 2026-06-17 151033.png](https://github.com/vishalbundela/Excel-Sales-Dashboard-/blob/main/Screenshot%202026-06-17%20151033.png))
+![Dashboard Screenshot](Dashboard.png)
 
 ---
 
