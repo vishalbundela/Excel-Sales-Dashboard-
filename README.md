@@ -66,7 +66,7 @@ Analyze sales performance across different cities:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot](Screenshot 2026-06-17 151033.png)
 
 ---
 
